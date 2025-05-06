@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Wordpress Pluging**
 
-- 👨‍💻 All of my projects are available at [https://sanjithsarkar.github.io/sanjith.github.io/](https://sanjithsarkar.github.io/sanjith.github.io/)
+- 👨‍💻 All of my projects are available at [https://sanjith-sarkar.netlify.app](https://sanjith-sarkar.netlify.app)
 
 - 📫 How to reach me **sanjith.lu@gmail.com**
 
